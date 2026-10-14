@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "generatedAt": "2026-10-14T04:46:09.000Z",
+  "games": [
+    {
+      "id": "dragons-dogma-2",
+      "title": {
+        "ru": "Dragon's Dogma 2",
+        "en": "Dragon's Dogma 2"
+      },
+      "version": "2026-10-14-4fb0bc2f",
+      "updatedAt": "2026-10-14T04:46:09.000Z",
+      "file": "dragons-dogma-2.json",
+      "size": 438158,
+      "sha256": "24de4c97cf1138f651976b110d590ade4b96b26ae52145de1c23ae960c1e2a88",
+      "entries": 354,
+      "features": [
+        "save",
+        "map"
+      ]
+    }
+  ]
+}
