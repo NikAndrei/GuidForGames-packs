@@ -5,7 +5,7 @@
 
 | Игра | id | Версия | Записей | Размер |
 |---|---|---|---|---|
-| Dragon's Dogma 2 | `dragons-dogma-2` | 2026-10-14-4fb0bc2f | 354 | 428 КБ |
+| Dragon's Dogma 2 | `dragons-dogma-2` | 2026-10-14-66f279bd | 354 | 428 КБ |
 
 Каталог — `index.json`, пакет игры — `<id>.json` (формат описан схемой `GamePack`).
 

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-14T04:46:09.000Z",
+  "generatedAt": "2026-10-14T16:27:58.000Z",
   "games": [
     {
       "id": "dragons-dogma-2",
@@ -8,11 +8,11 @@
         "ru": "Dragon's Dogma 2",
         "en": "Dragon's Dogma 2"
       },
-      "version": "2026-10-14-4fb0bc2f",
-      "updatedAt": "2026-10-14T04:46:09.000Z",
+      "version": "2026-10-14-66f279bd",
+      "updatedAt": "2026-10-14T16:27:58.000Z",
       "file": "dragons-dogma-2.json",
-      "size": 438158,
-      "sha256": "24de4c97cf1138f651976b110d590ade4b96b26ae52145de1c23ae960c1e2a88",
+      "size": 438145,
+      "sha256": "203fab8c92fb48e9c55bee73e55cf6bc30a5fb57dc467edd89838668512df919",
       "entries": 354,
       "features": [
         "save",
