@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-18T13:16:41.000Z",
+  "generatedAt": "2026-10-18T16:45:05.000Z",
   "games": [
     {
       "id": "dragons-dogma-2",
@@ -25,11 +25,11 @@
         "ru": "Resident Evil 4 (ремейк)",
         "en": "Resident Evil 4 (Remake)"
       },
-      "version": "2026-10-18-b78d20c7",
-      "updatedAt": "2026-10-18T13:16:41.000Z",
+      "version": "2026-10-18-3f0897a8",
+      "updatedAt": "2026-10-18T16:45:05.000Z",
       "file": "re4-remake.json",
-      "size": 612801,
-      "sha256": "fda866213d65da6f3eefe5da9ec073ee218e32d4502ac1fb6fbcf09397bf27bb",
+      "size": 615124,
+      "sha256": "91270e99bd8771191ae69c6432e370cf4762202ba4711146c49e6947313cfc64",
       "entries": 428,
       "features": []
     }
